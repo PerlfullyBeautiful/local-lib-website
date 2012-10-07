@@ -5,7 +5,7 @@ use warnings;
 use ExtUtils::MakeMaker;
 
 my %args = (
-    NAME => 'perlfully-beautiful-skeleton', # change me!
+    NAME => 'local-lib-website',
     PREREQ_PM => {
         "App::Wallflower"           => 0,
         "Plack"                     => 0,
